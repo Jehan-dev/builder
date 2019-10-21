@@ -1,0 +1,15 @@
+$green: #07b569;
+$text: #1b1b1b;
+$text2: #1d1d1d;
+
+
+
+@mixin f700 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+@mixin f300 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
